@@ -1,8 +1,8 @@
-##Setup
+## Setup
 
-###Jenkins is deployed and managed by one of the course staff.
+### Jenkins is deployed and managed by one of the course staff.
 
-###Steps we need to do:
+### Steps we need to do:
 1.	Get a server department engineer to deploy jenkins (IP address, user, password)
 2.	Connect to the server remotely (putty)
 3.	Create a new folder for our deployment in the server and enter it.
