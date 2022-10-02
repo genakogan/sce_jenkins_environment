@@ -4,7 +4,7 @@ Steps we need to do:
 1.	Get a server department engineer to deploy jenkins (IP address, user, password)
 2.	Connect to the server remotely (putty)
 3.	Create a new folder for our deployment in the server and enter it.
-4.	Clone the github repository in the folder (Link)
+4.	Clone the github repository
 5.	In the casc_config/staff_users.yaml change and add the staff users don't change the password it is encrypted to be SceAdmin99!
 6.	In the casc_config/staff_users.yaml change the user name and to real user and there there id.
 7.	In the casc_config/student_group_mapping.yaml divide students to their groups, change to real student names.
