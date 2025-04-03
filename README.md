@@ -54,7 +54,7 @@ docker run -d --name scejenkins \
            -v sce_jenkins_home:/var/jenkins_home \
            -v /var/run/docker.sock:/var/run/docker.sock \
            -p 80:8080 -p 50000:50000 \
-           shurikg/sce_jenkins:2.440.1
+           shurikg/sce_jenkins:2.387.1
 ```
 
 ### Jira
