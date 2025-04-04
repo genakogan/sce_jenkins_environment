@@ -1,5 +1,5 @@
 # FROM jenkins/jenkins:2.190.3
-FROM jenkins/jenkins:2.479.1
+FROM jenkins/jenkins:2.387.1
 
 LABEL maintainer="shurikg" 
 
